@@ -1,0 +1,11 @@
+﻿  Sum.c
+  Main.c
+c:\users\hb2000\clangprojects\calculator\calculator\main.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\hb2000\clangprojects\calculator\calculator\main.c(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+c:\users\hb2000\clangprojects\calculator\calculator\main.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+  Calculator.vcxproj -> C:\Users\hb2000\ClangProjects\Calculator\Debug\Calculator.exe
+  Calculator.vcxproj -> C:\Users\hb2000\ClangProjects\Calculator\Debug\Calculator.pdb (Partial PDB)
